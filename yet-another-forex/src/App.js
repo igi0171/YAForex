@@ -15,6 +15,7 @@ function App() {
   let componentIsMounted;
 
   useEffect(() => {
+    // eslint-disable-next-line
     componentIsMounted = true;
     if (
       selectedDate === null ||
