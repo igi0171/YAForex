@@ -1,0 +1,96 @@
+/* .app {
+  padding: 12px;
+  background-color: #282c34;
+  color: #fafafa;
+  min-height: 100vh;
+}
+.card {
+  border: 1px solid #3f3f3f;
+  padding: 12px;
+  margin-top: 12px;
+}
+.input {
+  width: 100%;
+  max-width: 240px;
+  padding: 12px 6px;
+  border-radius: 24px;
+}
+.my {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.rate {
+  margin-left: 12px;
+} */
+
+.box {
+  margin-top: 20px;
+  margin-left: 6.2%;
+  margin-right: 9.6%;
+}
+
+.yet_another_forex_box {
+  background: black;
+  height: 35px;
+}
+
+.yet_another_forex {
+  color: gray;
+  margin-left: 4.7%;
+  padding-top: 7.5px;
+  font-size: 15px;
+}
+
+.date_box {
+  height: 65px;
+}
+
+.rates_date_box {
+  margin-left: 4.7%;
+  display: inline-block;
+}
+
+.rates_date {
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.datepicker_box {
+  display: inline-block;
+  margin-left: 47%;
+}
+
+.datepicker_icon {
+  display: inline-block;
+}
+
+.datepicker {
+  display: inline-block;
+}
+
+.rates_box {
+  margin-left: 4%;
+}
+
+.rate_box {
+  display: inline-block;
+  width: 19%;
+  margin-right: 4.7%;
+  margin-bottom: 30px;
+}
+
+.symbol_box {
+  border-style: solid;
+  height: 50px;
+}
+
+.symbol {
+  font-size: 15px;
+}
+
+.rate {
+  border-left-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  height: 55px;
+}
